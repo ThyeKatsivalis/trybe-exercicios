@@ -1,0 +1,83 @@
+Conteudos - Links Externos e Internos
+
+<!DOCTYPE html>
+<html lang="pt-br"
+<head> 
+  <meta charset="UTF-8">
+  <title>HTML</title>
+</head>
+  <body>
+    <h1>Exercícios</h1>
+      <ul>
+        <li><a href="#andré">André</a></li>
+        <li><a href="#bruna"> Bruna</a></li>
+        <li><a href="#julia">Julia</a></li>
+        <li><a href="#thiago lira">Thiago Lira</a></li>
+        <li><a href="#thiago perim">Thiago Perim</a></li>
+        <li><a href="#vinicius pozzatto">Vinicius Pozzatto</a></li>
+        </ul>
+        <img src="https://independente.com.br/wp-content/uploads//2020/12/brinde-de-cerveja-1597868258640_v2_900x506.jpg" alt="Brindes com cerveja" width="400px">
+        <br><br> 
+        <img src="Captura de tela de 2022-08-05 15-01-54.png" alt="print de comandos" width="400px">
+        <br><br>
+        <p id="andré" >blablablablablablablablablablablablablabla
+            blablablablablablablablablablablablablablabla
+            blablablablablablablablablablablablabla
+            blablablablablablablablablablablablablablablablab
+            lablablablablablablablablablablablablablablablabla
+            blablablablablablablablablabla
+            blablablablablablablablablablablablabla
+            blablablablablablablablablablablablablabla</p> <br>
+        <p id="bruna">lalalalalalalalalalalalalalalalalalalalalala
+            lalalalalalalalalalalalalalalalalalallalala
+            lalalalalalalalalalalalalalalalalalalalalala
+            lalalalalalalalalalalalalalalalalalalalalala
+            lalalalalalalalalalalalalalalalalalallalala
+            lalalalalalalalalalalalalalalalalalalalalala
+            lalalalalalalalalalalalalalalalalalalalalala
+            lalalalalalalalalalalalalalalalalalallalala
+            lalalalalalalalalalalalalalalalalalalalalala
+        </p> <br><br>
+        <p id="julia">blubblubblubblubblubblubblubblubblubblubblubblub
+            blubblubblubblubblubblubblubblubblubblubblubblub
+            blubblubblubblubblubblubblubblubblubblubblubblubblub
+            blubblubblubblubblubblubblubblubblubblubblub
+            blubblubblubblubblubblubblubblubblubblubblubblub
+            blubblubblubblubblubblubblubblubblubblubblubblub
+        </p> <br><br>
+        <p id="thiago lira">bakabakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabaka
+            bakabakabakabakabakabakabakabakabakabakabakabaka
+        </p> <br><br>
+        <p id="thiago perim">VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+            VerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerdeVerde
+        </p> <br><br>
+        <p id="vinicius pozzatto">JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+            JesusmesalvakaraioJesusmesalvakaraioJesusmesalvakaraio
+        </p> <br><br>
+        
+        <a href="https://www.google.com/"target="_blank">google</a>
+
+    </body>
+
+</html>
