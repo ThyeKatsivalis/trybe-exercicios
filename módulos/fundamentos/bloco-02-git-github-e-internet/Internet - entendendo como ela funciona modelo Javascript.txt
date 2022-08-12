@@ -1,0 +1,5 @@
+// Adiciona informações com um click
+const sendButton = document.querySelector('.send-button');
+sendButton.addEventListener('click', function () {
+  return saveInformation(myInformations);
+});
